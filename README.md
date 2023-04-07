@@ -4,7 +4,7 @@
 | -------------- | ------ |
 | Axel Andersson | 361936|
 | Eva Cramatte   | 297255 |
-| Antoine Salaün | |
+| Antoine Salaün | 272621 |
 
 [Milestone 1](#milestone-1) • [Milestone 2](#milestone-2) • [Milestone 3](#milestone-3)
 
